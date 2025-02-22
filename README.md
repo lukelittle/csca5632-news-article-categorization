@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 3. Run the notebooks:
 - Open Jupyter and navigate to the notebooks directory
-- Run notebooks in numerical order (1-4)
+- Run notebooks in numerical order (1-3)
 
 ## Project Author
 Lucas Little
